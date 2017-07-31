@@ -8,10 +8,10 @@
     <meta name="keywords" content="Diyaa Ebrahim presonal website">
     
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Fira+Sans|Roboto:300,400|Questrial|Satisfy">
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/animate.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="animate.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     
     <!-- =======================================================
         Theme Name: Laura
@@ -95,25 +95,25 @@
         <div class="col-md-12">
           <div id="myGrid" class="grid-padding">
           <div class="col-md-4 col-sm-4 padding-right-zero">
-            <img src="img/portfolio01.jpg" class="img-responsive">
-            <img src="img/port01.jpg" class="img-responsive">
-            <img src="img/port02.jpg" class="img-responsive">
-            <img src="img/portfolio01.jpg" class="img-responsive">
+            <img src="portfolio01.jpg" class="img-responsive">
+            <img src="port01.jpg" class="img-responsive">
+            <img src="port02.jpg" class="img-responsive">
+            <img src="portfolio01.jpg" class="img-responsive">
           </div>
           <div class="col-md-4 col-sm-4 padding-right-zero">
-            <img src="img/portfolio02.jpg" class="img-responsive">
-            <img src="img/port01.jpg" class="img-responsive">
-            <img src="img/port02.jpg" class="img-responsive">
-            <img src="img/portfolio01.jpg" class="img-responsive">
-            <img src="img/port03.jpg" class="img-responsive">
+            <img src="portfolio02.jpg" class="img-responsive">
+            <img src="port01.jpg" class="img-responsive">
+            <img src="port02.jpg" class="img-responsive">
+            <img src="portfolio01.jpg" class="img-responsive">
+            <img src="port03.jpg" class="img-responsive">
           </div>
           <div class="col-md-4 col-sm-4 padding-right-zero">
-            <img src="img/port01.jpg" class="img-responsive">
-            <img src="img/portfolio01.jpg" class="img-responsive">
-            <img src="img/portfolio02.jpg" class="img-responsive">
-            <img src="img/port03.jpg" class="img-responsive">
-            <img src="img/portfolio02.jpg" class="img-responsive">
-            <img src="img/port02.jpg" class="img-responsive">
+            <img src="port01.jpg" class="img-responsive">
+            <img src="portfolio01.jpg" class="img-responsive">
+            <img src="portfolio02.jpg" class="img-responsive">
+            <img src="port03.jpg" class="img-responsive">
+            <img src="portfolio02.jpg" class="img-responsive">
+            <img src="port02.jpg" class="img-responsive">
           </div>
           </div>
         </div>
@@ -239,13 +239,13 @@
     </div>
   </footer>
   
-    <script src="js/jquery.min.js"></script>
-    <script src="js/jquery.easing.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.bxslider.min.js"></script>
-    <script src="js/wow.js"></script>
-    <script src="js/custom.js"></script>
-    <script src="contactform/contactform.js"></script>
+    <script src="jquery.min.js"></script>
+    <script src="jquery.easing.min.js"></script>
+    <script src="bootstrap.min.js"></script>
+    <script src="jquery.bxslider.min.js"></script>
+    <script src="wow.js"></script>
+    <script src="custom.js"></script>
+    <script src="contactform.js"></script>
     
   </body>
 </html>
