@@ -11,13 +11,7 @@
     <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="animate.css">
     <link rel="stylesheet" type="text/css" href="style.css">
-    
-    <!-- =======================================================
-        Theme Name: Laura
-        Theme URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-        Author: BootstrapMade.com
-        Author URL: https://bootstrapmade.com
-    ======================================================= -->
+   
   </head>
   <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60" onload="myFunction()">
   <div class="header">
@@ -71,15 +65,11 @@
         </div>
         <div class="col-md-6 text-left">
           <div class="about-text">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>I'm software developer, ungraduated - Expicted in(2019), I'm studing Information systems at Al Shorouk Academy, 3rd year.</p>
             <p>&nbsp;</p>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>I build adminstration systems to Clinics, Shops, Libraries.... etc.</p>
             <p>&nbsp;</p>
-            <ul class="abt-list">
-              <li>- Excepteur sint occaecat cupidatat non proident.</li>
-              <li>- Duis aute irure dolor in reprehenderit.</li>
-              <li>- Ask the experts.</li>
-            </ul>
+        
           </div>
         </div>
       </div>
